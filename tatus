@@ -1,0 +1,1937 @@
+[33mcommit d41ae17c96d53a576f1ca34832fc3a187d4e2ddf[m
+Author: Steven Lian <kingliantop@gmail.com>
+Date:   Tue Sep 13 11:03:11 2016 +0000
+
+    add new load balancer configuration
+
+[33mcommit 4cf23b2887394eb38305041840ef9b25e94b98ef[m
+Merge: 9918b45 ddd77f3
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Fri Mar 11 14:32:59 2016 -0800
+
+    Merge pull request #17 from sauryadas/AzureDevTestDeploy_Qs
+    
+    Initial question and answers app
+
+[33mcommit ddd77f30bd13be8f29091a44a6719fb40e412fe6[m
+Author: Saurya Das <spd73@cornell.edu>
+Date:   Fri Mar 11 22:28:53 2016 +0000
+
+    remove wrapdocker
+
+[33mcommit 175582c65618f50b959a8ed49a21f3681cd04146[m
+Author: Saurya Das <spd73@cornell.edu>
+Date:   Fri Mar 11 22:20:30 2016 +0000
+
+    initial questions and answers project
+
+[33mcommit 9918b45b57bcc68aceb373a9d37c9436fe5e306d[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Jan 4 09:22:31 2016 -0800
+
+    use the mesos dns name as a label
+
+[33mcommit 5718abb955fb9108107f879e0488e5c9ec4397cf[m
+Merge: 9766b06 0183468
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Jan 4 09:09:37 2016 -0800
+
+    Merge branch 'master' of https://github.com/rgardler/AzureDevTestDeploy
+
+[33mcommit 9766b0682760476a0542cc03987263f7e369d443[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Jan 4 09:08:40 2016 -0800
+
+    in production don't use HA Proxy use the Azure LB
+
+[33mcommit 01834684a9fd4a1e876ed3487cbb80deed4f8adb[m
+Author: Ralph Squillace <ralph@squillace.com>
+Date:   Mon Nov 30 14:59:15 2015 -0800
+
+    fixing stuff now.
+
+[33mcommit 82cd4f2847752112cc8bb331fee309cece273b31[m
+Author: Ralph Squillace <ralph@squillace.com>
+Date:   Mon Nov 30 14:49:27 2015 -0800
+
+    resetting again
+
+[33mcommit 0e46fadae259cb72e8aaf0a1ceaeaeb193b97c9e[m
+Author: Ralph Squillace <ralph@squillace.com>
+Date:   Mon Nov 30 14:13:17 2015 -0800
+
+    resetting the demo
+
+[33mcommit bf1218848a57cec16a0ade53e39acb93a27210d1[m
+Author: Ralph Squillace <ralph@squillace.com>
+Date:   Wed Nov 18 12:40:05 2015 +0100
+
+    Hi, Stockholm
+
+[33mcommit b80848835f0d23d85592a42527ac3c3fa728c389[m
+Author: Ralph Squillace <ralph@squillace.com>
+Date:   Wed Nov 18 10:04:37 2015 +0100
+
+    resetting the application
+
+[33mcommit 0d7523baa247886e4c957af2eceb5dbb16c84c6d[m
+Author: Ralph Squillace <ralph@squillace.com>
+Date:   Wed Nov 18 09:36:31 2015 +0100
+
+    resetting the application
+
+[33mcommit 656bd0b5d5e4c004643fa25d1dfdb7858357f0f9[m
+Author: Ralph Squillace <ralph@squillace.com>
+Date:   Mon Nov 16 13:24:56 2015 +0100
+
+    one more special change
+
+[33mcommit ef157648cf4aefdfd8ddd186d95d26f61364d246[m
+Author: Ralph Squillace <ralph@squillace.com>
+Date:   Mon Nov 16 12:18:07 2015 +0100
+
+    one more change that is very important
+
+[33mcommit c123f9c557b11dd1ef70b64d493720f011231910[m
+Author: Ralph Squillace <ralph@squillace.com>
+Date:   Mon Nov 16 10:15:34 2015 +0100
+
+    making a change
+
+[33mcommit afff46d6720ac9dbd56896bc65440c528265933d[m
+Author: Ralph Squillace <ralph@squillace.com>
+Date:   Mon Nov 16 08:21:41 2015 +0100
+
+    committing random change
+
+[33mcommit 4e50c56b11b2c4b3fd53e221071d0acda535a82a[m
+Author: Ralph Squillace <ralph@squillace.com>
+Date:   Mon Nov 16 01:57:05 2015 +0100
+
+    hello barcelona
+
+[33mcommit 14e0e4fd9566868451f14c8b53a98a1cb2381a96[m
+Author: Ralph Squillace <ralph@squillace.com>
+Date:   Mon Nov 16 01:51:04 2015 +0100
+
+    fixing last image issue
+
+[33mcommit 4a631e09d35b5f531fe00cf7cc442b44d68dd351[m
+Author: Ralph Squillace <ralph@squillace.com>
+Date:   Mon Nov 16 01:34:11 2015 +0100
+
+    pushing the mac changes and file changes
+
+[33mcommit 67286a65eede55541d8f5dd6b4b89d318925c001[m
+Author: Ralph Squillace <ralph@squillace.com>
+Date:   Sun Nov 15 12:20:07 2015 +0100
+
+    completely resetting
+
+[33mcommit bc6b68502b4ab8f8017113bb3e1d1c4829c09632[m
+Author: Ralph Squillace <ralph@squillace.com>
+Date:   Sun Nov 15 11:34:26 2015 +0100
+
+    resetting the demo environment for Barcelona
+
+[33mcommit 7222ff5a444ff59fd3688c006db7c9e0b697f0c2[m
+Author: Ralph Squillace <ralph@squillace.com>
+Date:   Sat Nov 14 16:12:18 2015 +0100
+
+    a simple edit for DockerCon EU
+
+[33mcommit c53d2a2d2f67d1e6fdd6687c352d0cb5b0f9e8bf[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Tue Nov 10 09:55:56 2015 -0800
+
+    trigger builds for demo
+
+[33mcommit efe74419ab455edc0940180a573c7534e9bab58a[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Tue Nov 10 02:09:33 2015 -0800
+
+    trigger a build for the demo
+
+[33mcommit cc7cd740ca0ff0ec12f8e8eda770d3dda3bf433b[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Tue Nov 10 01:56:40 2015 -0800
+
+    reduce the time taken in benchmarking to make demo's shorter
+
+[33mcommit a417c4bd808c4f6cc7fc951d96129a7efa3bb8db[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Tue Nov 10 01:45:47 2015 -0800
+
+    generalize URL
+
+[33mcommit 5aed50bf4c49010c2403492941c9987e5abba646[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Mon Nov 9 22:59:47 2015 -0800
+
+    s/demo/tutorial and invite contributions
+
+[33mcommit 913584baffaa42650577e2cc7b5cf9f00f8f595e[m
+Merge: 1a8e41a 8492523
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Nov 9 22:54:45 2015 -0800
+
+    Merge branch 'demo250'
+
+[33mcommit 84925230f241c30bc716beb07932080348be5b0a[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Nov 9 22:53:37 2015 -0800
+
+    remove outdated docs folder and instead focus on the demo folder
+
+[33mcommit 1a8e41a8daab39d3cb5906968c470da5d1f5db4f[m
+Merge: 2a4eda2 6802ea2
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Mon Nov 9 22:50:08 2015 -0800
+
+    Merge pull request #14 from rgardler/demo250
+    
+    fix script name for preparing dev machine. Fixes #11
+
+[33mcommit 6802ea216bc4b4d0df3584c7d343cc42d6b28e17[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Nov 9 22:45:15 2015 -0800
+
+    fix script name for preparing dev machine. Fixes #11
+
+[33mcommit 2a4eda2e2d536d5c152716ab146c69b4332d3c4a[m
+Merge: ef67a84 30a8cb7
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Mon Nov 9 22:43:11 2015 -0800
+
+    Merge pull request #13 from rgardler/demo250
+    
+    Some docs improvements
+
+[33mcommit 30a8cb71e2193305616a499abddd7f65e9e2ac8c[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Nov 9 22:38:34 2015 -0800
+
+    add some links to tutuorials on Putty and RealVNC
+
+[33mcommit 62d0c66eab284fdc45dd3abfde8a8e14910008f3[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Nov 9 14:36:02 2015 -0800
+
+    use the Jumpbox as the CI/CD server - configure it with my screipts for ease of use
+
+[33mcommit ef67a84e188ff046fb3ceab4aa54cba3d889878e[m
+Author: Ross Gardler <rogardle@microsoft.com>
+Date:   Sun Nov 8 23:54:55 2015 -0800
+
+    add videos of each of most of the demo's
+
+[33mcommit b37f4abc2d25138e8a9a62949c0afddf62787bc1[m
+Merge: caec5d9 8332aff
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Sun Nov 8 22:27:26 2015 -0800
+
+    Merge pull request #10 from rgardler/scripts
+    
+    Make scripts more portable
+
+[33mcommit 8332affc07e0295668688e499ad42ca6f24e56bd[m
+Merge: f050989 caec5d9
+Author: Ross Gardler <ross@gardler.org>
+Date:   Sun Nov 8 22:24:06 2015 -0800
+
+    Merge branch 'master' into scripts
+    
+    Conflicts:
+    	script/create_stage_swarm.sh
+    	script/machines.sh
+
+[33mcommit f05098982ea363472048dcf82a17216ff6dbbd0f[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Sun Nov 8 22:20:29 2015 -0800
+
+    Use location of script as location of other scripts
+
+[33mcommit caec5d97e3dc09cc89dd83117eb80ce4609011f7[m
+Merge: 73c625d 02d59f5
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Sun Nov 8 22:17:43 2015 -0800
+
+    Merge pull request #8 from squillace/patch-1
+    
+    Typo's in environmentSetup.md
+
+[33mcommit 73c625de5b155bb9d0c418cb548810d6065d77b1[m
+Merge: 00ffee4 6240ffa
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Sun Nov 8 22:16:59 2015 -0800
+
+    Merge pull request #9 from squillace/vbox-addfixes
+    
+    Add Virtualbox support
+
+[33mcommit 6240ffa6861fd066fd8d98a403ed7df29996fa53[m
+Author: Ralph Squillace <ralph@squillace.com>
+Date:   Sun Nov 8 22:02:27 2015 -0800
+
+    removed the -D flag, which was just for testing
+
+[33mcommit 6fe00da9fdf0af82ce1cd26505eae390a9c2ed1b[m
+Author: Ralph Squillace <ralph@squillace.com>
+Date:   Sun Nov 8 21:58:46 2015 -0800
+
+    fixing the template for the config script.
+
+[33mcommit 4ff64ed22c336e56db475e56cc1da92b98a5125f[m
+Author: Ralph Squillace <ralph@squillace.com>
+Date:   Sun Nov 8 21:54:42 2015 -0800
+
+    fixes that add virtualbox as a driver for dev and some typos and handler additions for mac
+
+[33mcommit 02d59f5764dfad1bd7d3e55aa19fdf9b33c28526[m
+Author: Ralph Squillace <ralph@squillace.com>
+Date:   Sun Nov 8 20:11:15 2015 -0800
+
+    Update environmentSetup.md
+
+[33mcommit f092f202667901c12e9b0f8500d4e4c1b46a9a11[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Thu Nov 5 23:07:01 2015 -0800
+
+    test deploy
+
+[33mcommit a708721c4173424d76d770245c95317806139d93[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Thu Nov 5 23:03:56 2015 -0800
+
+    fix name of demo
+
+[33mcommit 18105cdbaef2517f7e5bc7f40f802f45b0b23839[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Thu Nov 5 23:03:08 2015 -0800
+
+    clean up in order to prevent buggy start
+
+[33mcommit 04a41fc17fb7d9f27ffe6532cae6b11076cedd8b[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Thu Nov 5 22:52:52 2015 -0800
+
+    setup of command prompt and history
+
+[33mcommit 1a222832d0eff122a464d85a79e29d79aa4db461[m
+Merge: a7e0f4d 00ffee4
+Author: Ross Gardler <ross@gardler.org>
+Date:   Thu Nov 5 22:52:07 2015 -0800
+
+    Merge branch 'master' into demo250
+
+[33mcommit a7e0f4d9291422fba7273de0063c108ba810bb31[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Thu Nov 5 22:46:53 2015 -0800
+
+    don't start the CI server on the local machine
+
+[33mcommit 00ffee4b0048fd56b00fe4e189e480f0413ec08a[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Thu Nov 5 22:40:45 2015 -0800
+
+    use the integration docker-compose file
+
+[33mcommit fd6cc5e3eebe65ddc9be786b58a924c294feaa6d[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Thu Nov 5 19:25:32 2015 -0800
+
+    output the results for debug purposes
+
+[33mcommit d8720a0f0d7c248c8814da8ed1d0b77526760cb9[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Thu Nov 5 14:19:29 2015 -0800
+
+    demo again
+
+[33mcommit ac5d73d13d95bb6c75bf6164ede77e16de935a8a[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Thu Nov 5 12:11:55 2015 -0800
+
+    demo again
+
+[33mcommit 46d1d9f5d437c1c75c4af514fee73bebffa405eb[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Wed Nov 4 16:44:27 2015 -0800
+
+    mvp demo
+
+[33mcommit a0688e1c1ea48b2edda5b82b5f7ff6e6956a1254[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Wed Nov 4 14:40:32 2015 -0800
+
+    change title
+
+[33mcommit 2fa632784b8d1b12dae25dea3ff09537d0995cb3[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Wed Nov 4 14:33:19 2015 -0800
+
+    need to rm docker images to ensure proxy works properly
+
+[33mcommit 0dd1d849d231cb1885ed26fc70385c52b9519523[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Wed Nov 4 14:25:16 2015 -0800
+
+    trigger build for a demo
+
+[33mcommit de9031b4cfb588b6608abf02da5ab0cd1f8fe021[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Wed Nov 4 14:19:10 2015 -0800
+
+    add a note about scaling limitation at this point
+
+[33mcommit ec2e672fe85829bb1c08a19c1527307a214c79d0[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Wed Nov 4 14:01:01 2015 -0800
+
+    use -f on the rm command to prevent failure on first run (no file to rm)
+
+[33mcommit a09e7899b4f1e8de86ea9c9c8a5fb6e467e7bc52[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Wed Nov 4 13:51:20 2015 -0800
+
+    getting close to final on the demo250 script
+
+[33mcommit f07495caa52876f3cd97a6e547227a3aa6ec0e38[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Wed Nov 4 13:26:00 2015 -0800
+
+    use new install script, old was is deprecated, which means broken ;-)
+
+[33mcommit 163031760767bb57b4dbad6543987d383fd99bad[m
+Merge: ed8060c ce002be
+Author: Ross Gardler <ross@gardler.org>
+Date:   Wed Nov 4 12:40:00 2015 -0800
+
+    Merge branch 'master' of https://github.com/rgardler/AzureDevTestDeploy
+
+[33mcommit ed8060c8d200453125fd4219be7f6d333685384b[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Wed Nov 4 12:39:49 2015 -0800
+
+    ignore queue.xml Jenkins generated size
+
+[33mcommit 497091e7c6109fb2551ccc4f079cb6fb4c855d64[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Wed Nov 4 12:30:27 2015 -0800
+
+    trigger MVP demo
+
+[33mcommit ce002be12643a9bb353476bd7bda784475e69474[m
+Merge: 8809e91 25c6d23
+Author: Ross Gardler <ross@gardler.org>
+Date:   Wed Nov 4 19:01:39 2015 +0000
+
+    Merge branch 'master' of http://github.org/rgardler/AzureDevTestDeploy
+
+[33mcommit 25c6d23828766e75d5f8a8e237a6c502b8562668[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Wed Nov 4 10:35:06 2015 -0800
+
+    MVP demo
+
+[33mcommit 8809e9154888a4f73cb7b47336b2c6f9599b92c3[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Wed Nov 4 18:01:47 2015 +0000
+
+    need to add a docker group, latest script is deprecated, need to migrate this docker install to the recommended route
+
+[33mcommit 70cfafbecbfbe70ec4ae9042672d3743d5356e0f[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Wed Nov 4 09:44:10 2015 +0000
+
+    getting close to a complete script now
+
+[33mcommit 9dc619f20afc6c14c5c45d518c670011924d9d25[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Wed Nov 4 01:42:55 2015 -0800
+
+    start the application properly
+
+[33mcommit e8160ca7e90f3f91861165598a631f18b1f8633e[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Wed Nov 4 01:42:30 2015 -0800
+
+    setup an editor for index.php and an ssh connection to the cluster jumpbox
+
+[33mcommit 68796e1f569451edd47a3ac38c4cb604ba9073a0[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Wed Nov 4 01:40:29 2015 -0800
+
+    use --fix-missing to workaround intermittent install problem with java
+
+[33mcommit 9665c7785500666dd76cc646f11a07d1bd800ddb[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Wed Nov 4 01:24:25 2015 -0800
+
+    and again, back to the non MVP version
+
+[33mcommit c6a9dd1f7c126e6077da2cc62fb9ab1ea8089ec2[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Wed Nov 4 01:01:05 2015 -0800
+
+    yatc (yet another trigger commit
+
+[33mcommit 307549a7fbb949e95aed573d799f63b57c55a2d5[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Wed Nov 4 08:27:04 2015 +0000
+
+    set a prompt that makes it easy to identify this terminal
+
+[33mcommit f5133f080429af66547027705a3f89fbced2d039[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Wed Nov 4 08:01:13 2015 +0000
+
+    provide a dev machine setup and start adding meat to the bones of the demo script
+
+[33mcommit bc09cfe4ede92cf93d70b0464e43c4ddbb802765[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Wed Nov 4 06:54:57 2015 +0000
+
+    put it back to the non-MVP version in prep for the live demo tomorrow
+
+[33mcommit d41e0d04dbc3b0b4b704b9dd82cebf5d37622043[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Wed Nov 4 06:54:11 2015 +0000
+
+    update status on publish to staging task
+
+[33mcommit d7e4939e98a8d2f64b243cdb3d3f9267fd52eaa8[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Wed Nov 4 06:50:18 2015 +0000
+
+    Add a sleep to the deploy task as we need to be sure that the old group has been deleted
+
+[33mcommit 266fcfe5fa986c1e1b6e309ef54143405e49ee74[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Wed Nov 4 06:42:31 2015 +0000
+
+    more build triggering to test deployment
+
+[33mcommit be779c6b25932ae631abe36273a04f4e28431733[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Wed Nov 4 06:32:49 2015 +0000
+
+    remove old marathon.json file to ensure we are using the lastest and don't keep too many old builds around
+
+[33mcommit cd0c0391ee4ca2b3ea73e80f7b985c05fe55933c[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Wed Nov 4 06:31:50 2015 +0000
+
+    one more edit to test auto deploy
+
+[33mcommit 0ce5ff1978d81d01d507866aaa017579326e9997[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Wed Nov 4 06:19:30 2015 +0000
+
+    update the staged applcation when all tests pass
+
+[33mcommit 7f49d60ac26cc8a957d472d7f00e10391f85de02[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Wed Nov 4 06:18:36 2015 +0000
+
+    trigger a buidl for test
+
+[33mcommit 7dfa7dc615ea7adbf7dd006754f08ec0954b7091[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Wed Nov 4 06:18:07 2015 +0000
+
+    force image pull to ensure we have the latest
+
+[33mcommit e2ddb8f87f164e157803e32c6e37596bf25d09e9[m
+Merge: c20f12b 02c53dc
+Author: Ross Gardler <ross@gardler.org>
+Date:   Wed Nov 4 05:04:55 2015 +0000
+
+    Merge branch 'master' of https://github.com/rgardler/AzureDevTestDeploy
+
+[33mcommit c20f12b387c4e98e303f7259171215a2f68859a6[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Wed Nov 4 05:04:47 2015 +0000
+
+    typo
+
+[33mcommit 02c53dc756da570c18ba7aad38cf2a5dc329aa2f[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Tue Nov 3 19:37:29 2015 -0800
+
+    Build the right container for rest API
+
+[33mcommit ccd983e601dc728a3d2438dc82c141088ca71da5[m
+Merge: c4a3970 cbc8e92
+Author: Ross Gardler <ross@gardler.org>
+Date:   Wed Nov 4 01:12:43 2015 +0000
+
+    Merge branch 'master' of https://github.com/rgardler/AzureDevTestDeploy
+
+[33mcommit c4a3970241d57fdd5b96472a3df6fac1cf8ccd66[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Wed Nov 4 01:12:33 2015 +0000
+
+    a few more jenkins generated files to ignore
+
+[33mcommit fd761bcfbf03f00ecfbd9af07436356e90d771da[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Wed Nov 4 01:11:42 2015 +0000
+
+    add a couple of userful links to setup instructions
+
+[33mcommit 42473709f0169d51d6572408c3796b3034efcbb5[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Wed Nov 4 01:10:50 2015 +0000
+
+    user adtd/*:stage containers
+
+[33mcommit c928f8093c64676b7e8d3464e82df298484994b9[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Wed Nov 4 01:10:04 2015 +0000
+
+    update on status of marathon deploy
+
+[33mcommit cbc8e9240df3cef2988e927bca1de1ebd3be6555[m
+Author: John Gossman <johngos@microsoft.com>
+Date:   Tue Nov 3 16:01:50 2015 -0800
+
+    update .gitignore
+
+[33mcommit 820255d02ef1b2046a7f611dc156536bc3ec06f2[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Tue Nov 3 21:16:25 2015 +0000
+
+    ignore CI ownerfile
+
+[33mcommit 7965cabe9b842bdf20b64dd94360493782b8c2b5[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Tue Nov 3 09:02:03 2015 -0800
+
+    use mesos dns alias in all versions
+
+[33mcommit de358a52a0e961d86539d3130e6cd7530d7d235b[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Tue Nov 3 08:45:07 2015 -0800
+
+    add a todo to remove marathon specific naming and update some progress
+
+[33mcommit f70fbc6152f6c9bbd3818c0635e269a0c2fd3143[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Tue Nov 3 08:36:54 2015 -0800
+
+    Use mesos DNS naming
+
+[33mcommit f1d1350f156d247e541b99d2ed6b20cbfcc596c9[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Tue Nov 3 08:26:36 2015 -0800
+
+    move marathon config into it's own directory
+
+[33mcommit c42c4fc0e412227b7863b6621f39d1b50f28f387[m
+Merge: 55dc0e5 a88aa58
+Author: Ross Gardler <ross@gardler.org>
+Date:   Tue Nov 3 08:18:35 2015 -0800
+
+    Merge branch 'azurecon' of https://github.com/rgardler/AzureDevTestDeploy into azurecon
+
+[33mcommit 55dc0e54af54adc013a3a40332be22a0976d279d[m
+Merge: 9da79e0 d39602e
+Author: Ross Gardler <ross@gardler.org>
+Date:   Tue Nov 3 08:17:52 2015 -0800
+
+    Merge branch 'master' into azurecon
+    
+    Conflicts:
+    	load_test/tests/Basic.conf
+    	web/www/html/index.php
+
+[33mcommit d39602e18b01f0c041f43554660b659703014e2d[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Tue Nov 3 09:36:36 2015 +0000
+
+    more accurate ignore jenkins CI files
+
+[33mcommit 392a6e91f0541aaa44ff505db7f290d4e58c86f2[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Tue Nov 3 09:36:07 2015 +0000
+
+    add the promotion to publish stage containers
+
+[33mcommit 37ab4104623d8567af3e547a5034e88076608a40[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Tue Nov 3 09:21:06 2015 +0000
+
+    first stab at full CI/CD demo
+
+[33mcommit f55073c50cee9444efd52b60db6c08114ec51f5f[m
+Merge: d480158 5afdf63
+Author: Ross Gardler <ross@gardler.org>
+Date:   Tue Nov 3 08:56:55 2015 +0000
+
+    Merge branch 'master' of https://github.com/rgardler/AzureDevTestDeploy
+
+[33mcommit d48015842f4b10128947d78ab8f5485333647b35[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Tue Nov 3 08:56:27 2015 +0000
+
+    tidy up the docker prep steps
+
+[33mcommit b68408d540b57d5278668093644dc5eda67aa862[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Tue Nov 3 08:52:39 2015 +0000
+
+    trigger a build for the MVP demo
+
+[33mcommit 5afdf63a28a048569f4edbf6111bb7cc2a921325[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Nov 2 23:56:12 2015 -0800
+
+    use rc3 of docker-copose
+
+[33mcommit 8bae5c21f9643288ea2cace7246313fc6e88cc85[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Nov 2 22:37:59 2015 -0800
+
+    really poll Git every minute
+
+[33mcommit 7a41c28d2d613a1cc1cbe9974f04e35feb58a668[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Tue Nov 3 06:31:42 2015 +0000
+
+    add a compose file for staging
+
+[33mcommit 87954c7b8ea0831d3d8a9499c7ef1940317f1dd5[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Tue Nov 3 06:31:29 2015 +0000
+
+    add a todo for migrating from java to rest in naming
+
+[33mcommit 699293c164f280d0fe3c87e3beb12ae131d72a3e[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Tue Nov 3 06:30:26 2015 +0000
+
+    note about current status of docker plugins
+
+[33mcommit f2d885bf1ca720454b967ace238e88c1679490f7[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Tue Nov 3 06:29:45 2015 +0000
+
+    reduce Git polling from 5 minutes to 1 minute
+
+[33mcommit 44ae9569991c8c16d8e016aea76a92fe01743a8b[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Tue Nov 3 06:28:24 2015 +0000
+
+    use latst built versionin the prod compose file
+
+[33mcommit 6379fcccf11a3e27523de2b4eacf3b6209df352f[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Nov 2 22:34:41 2015 +0000
+
+    fix soe broken html
+
+[33mcommit e918c14541b52b2806e6acd7152d96041adc3417[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Nov 2 22:07:10 2015 +0000
+
+    trigger build
+
+[33mcommit 1359cf92dc43b4563265c5e2517f5de0b3ff2376[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Nov 2 07:55:12 2015 +0000
+
+    add a note about having to login to docker hub to publish
+
+[33mcommit c97ac2343ccc038975bfd686cff99ce923247611[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Nov 2 07:43:09 2015 +0000
+
+    update readme with latest changes
+
+[33mcommit 6580bd8fb72655031ddf15b91401216d3a37a20d[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Nov 2 07:36:11 2015 +0000
+
+    we use promotions to publish containers
+
+[33mcommit fb9784642db61528de053d31c74bf69431959393[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Nov 2 07:30:08 2015 +0000
+
+    promote integration test when it and load_tests pass, the web container is published when promotion occurs
+
+[33mcommit f8bf3a179acc7548349d474d567157ecc06fbd26[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Nov 2 07:27:58 2015 +0000
+
+    a trivial change to test publishing from Jenkins
+
+[33mcommit b5a2325c3c4cc0758e2ab93b1462c8ce1af09441[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Nov 2 07:11:24 2015 +0000
+
+    ignore jenkins_home files that are generated by the running instance
+
+[33mcommit 59689b673a596cf47df7260071c9830b1b56223a[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Nov 2 06:44:42 2015 +0000
+
+    add an engineering notebook
+
+[33mcommit d9284c630a059d71e149447ce63b78662faf9933[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Nov 2 06:42:48 2015 +0000
+
+    go back to using Compose on a single machine - it doesn't work with Swarm at all
+
+[33mcommit f8fd2758c9ca6467bd0892c2faf0b6fd3fa98991[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Nov 2 06:41:58 2015 +0000
+
+    user integration test yml file in teardowns as well
+
+[33mcommit efb5df1cea6647e320ffdc246d4b66545278e2ad[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Nov 2 06:37:42 2015 +0000
+
+    user integration test yml file
+
+[33mcommit d6f984259ec379b40b7381cb7ef2c28167371f1c[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Nov 2 06:36:34 2015 +0000
+
+    block integration builds when upstream or downstream project is building
+
+[33mcommit 70bc953dae5ed06ceea56f238f5fbdd1664f3167[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Nov 2 06:29:35 2015 +0000
+
+    need to also use the integration test yml in the teardown
+
+[33mcommit 72fbe15760fa1be1adbd789fa75765569e3b7bd0[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Nov 2 06:20:41 2015 +0000
+
+    use a special docker-compose file to manage integration tests
+
+[33mcommit 9ef3b40982c1fa87690efaca298505987449643b[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Nov 2 06:15:39 2015 +0000
+
+    don't mount directories in tests
+
+[33mcommit 455f098e996b72e7d3a98344acfe4d652b370183[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Nov 2 06:13:20 2015 +0000
+
+    No testing when operating in dev mode but mounted filesystem, full integration testing for test work, no mounted filesystem or testing for prod
+
+[33mcommit c9280667aa3a1450159d1a1326a1ff8c8ea6ea19[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Sun Nov 1 20:57:41 2015 +0000
+
+    add an engineering notebook
+
+[33mcommit 61393d34fc0a741707473f04cafdd42a0cd59e08[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Sun Nov 1 17:55:43 2015 +0000
+
+    s/DOCKER_HOME/DOCKER_HOST
+
+[33mcommit 47f140b19619badc9ec12248d3d4249a5a7569ff[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Sun Nov 1 17:54:59 2015 +0000
+
+    add docker plugins and dependencies
+
+[33mcommit d54fac14b7dfacad4f46ef4e0a01a0b22c17cd4a[m
+Merge: c1a5137 f4843b5
+Author: Ross Gardler <ross@gardler.org>
+Date:   Wed Oct 28 21:40:09 2015 +0000
+
+    Merge branch 'master' of https://github.com/rgardler/AzureDevTestDeploy
+
+[33mcommit c1a513746d270dba8639e752a37de581b14d1cc6[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Wed Oct 28 21:39:17 2015 +0000
+
+    use canonical repo for Jenkins source checks
+
+[33mcommit f4843b58841e3b1565f27c41d4cf2580750d5549[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Oct 26 23:34:30 2015 +0000
+
+    don't run tests on production version
+
+[33mcommit f274b7f8aad2725a41db78105640e7ed885fe45e[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Oct 26 23:33:52 2015 +0000
+
+    don't limit prefork
+
+[33mcommit 1a3b67b881b192d7fb3e4ce21707dab0c8afa929[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Oct 26 23:33:20 2015 +0000
+
+    some tidier startup and cleanup for demos
+
+[33mcommit 649af2053b0f697ccd439d1a17c07595f8474749[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Oct 26 09:05:43 2015 +0000
+
+    add integration tests task
+
+[33mcommit bf6d8fde99d244183b423bcaee2bc2df3a60f50c[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Oct 26 09:05:28 2015 +0000
+
+    don't poll Git, instead only run tests when integration tests are succesful
+
+[33mcommit bd5097b447e12849718e4a3d69d4bec184e1c053[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Oct 26 08:42:59 2015 +0000
+
+    some basic notes on the script for Jenkins demo
+
+[33mcommit 00318351374f91963ce83f258093bb957137ef80[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Oct 26 08:26:57 2015 +0000
+
+    start of CI demo script
+
+[33mcommit 1be8468e7850a1a4d49d8be9460dc5c2b2b439d5[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Oct 26 08:26:15 2015 +0000
+
+    fix regexp for load tests
+
+[33mcommit 32cd3e38a94a070ee123bd7ce7fab5eba8c3ef58[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Oct 26 08:25:16 2015 +0000
+
+    use cononical repo for Jenkins and poll it every 5 mins
+
+[33mcommit bd0ffb7407be4665be0ab4b16df7d2a3ef13ed52[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Oct 26 08:17:44 2015 +0000
+
+    create a dev docker compose, which mounts volumes, and a prod one, which does not mount volumes
+
+[33mcommit 2367ba66460d5e9e3e4ad98e81487b82fb254397[m
+Merge: be2d2c6 cdaa6bf
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Oct 26 06:43:42 2015 +0000
+
+    Merge branch 'Mobius5150-ci'
+
+[33mcommit cdaa6bf50c6e5332ef9a9abc78e002285c12fba3[m
+Merge: be2d2c6 34bad58
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Oct 26 06:42:07 2015 +0000
+
+    Merge branch 'ci' of https://github.com/Mobius5150/AzureDevTestDeploy into Mobius5150-ci
+    
+    Some minor tweaks from the Mobius5150 contribution to match updated
+    approach.
+    
+    Conflicts resolved:
+    	docker-compose.yml
+    	web/www/html/index.php
+
+[33mcommit be2d2c6e51cbaa2ffea89be2f05af8dc9d0ad23b[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Oct 26 06:04:29 2015 +0000
+
+    initial ACS demo details
+
+[33mcommit e70e6e44502abebd93ef7c917f36a09bf5343bba[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Oct 26 05:44:48 2015 +0000
+
+    add a window showing the test results
+
+[33mcommit 78a5f95df4715b1575ed70ddb1edace72d2e9730[m
+Merge: b5ccfde e1a6680
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Oct 26 05:43:53 2015 +0000
+
+    Merge branch 'master' of https://github.com/rgardler/AzureDevTestDeploy
+
+[33mcommit b5ccfde7607f8ac7c0f1eed0075133ee8b4c1923[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Oct 26 05:43:38 2015 +0000
+
+    add some instructions on how to use the template and clean it up a little
+
+[33mcommit e1a66807d331323fc896e67931f4d42d7a307fce[m
+Merge: fe9528c 0f7baf4
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Oct 26 04:35:09 2015 +0000
+
+    Merge branch 'master' of https://github.com/rgardler/AzureDevTestDeploy
+
+[33mcommit fe9528c7b2074616cb8d4b93c82b9b335a30c93c[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Oct 26 04:34:43 2015 +0000
+
+    initial script for converting Docker Compose to Marathon Compose
+
+[33mcommit 34bad580892d5ff356215d1a79635134d1bb5510[m
+Author: Mike Blouin <mike@michaelblouin.ca>
+Date:   Sun Oct 25 23:01:43 2015 +0000
+
+    Installing docker in jenkins container using https.
+
+[33mcommit 90c27c1502d17ae995f9ac99948074c55afc70f1[m
+Author: Mike Blouin <mike@michaelblouin.ca>
+Date:   Sun Oct 25 22:34:27 2015 +0000
+
+    Remove work function from web service.
+
+[33mcommit 2e159b597a5f93f4f1a36fe1897e9a8a5838e4a8[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Sun Oct 25 18:44:24 2015 +0000
+
+    we don't need to show the command anymore
+
+[33mcommit 0f7baf4bded1d4f45f6ed5d255352fa7a551a3f9[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Sun Oct 25 10:39:53 2015 +0000
+
+    need to edit the test rather than the jave to make the demo quicker
+
+[33mcommit bb3076a43ec5c4690cff37c3bdfca3320d84ab7a[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Sun Oct 25 10:39:13 2015 +0000
+
+    note failed tests on both stdout and stderr
+
+[33mcommit 9471670df51e127beb085a33824897d5ee41ca26[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Sun Oct 25 10:38:32 2015 +0000
+
+    mount the test scripts in the dev compose file
+
+[33mcommit 088bfbfda4106c15d737c9b230da9c1dc272b116[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Sun Oct 25 10:28:37 2015 +0000
+
+    add a tmux window watching the test results
+
+[33mcommit 6c0e5b99f08d4190a0a82e1fe27bad815fa050ff[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Sun Oct 25 09:17:15 2015 +0000
+
+    add a really simple integration test
+
+[33mcommit 87a1aa47cbb74810b98e2d5da7b3f712d234efc7[m
+Author: Mike Blouin <mike@michaelblouin.ca>
+Date:   Sun Oct 25 08:40:42 2015 +0000
+
+    Add ci demo files.
+    
+    This `ci` directory creates and configures jenkins CI to run the dev test deploy project from a git repo.
+
+[33mcommit 33248c4b195e5ea2d454c2888389832fe5c57288[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Sun Oct 25 08:23:48 2015 +0000
+
+    actually a better name is testing101, so that we can include other tests here
+
+[33mcommit 6a14e22c95f534a3d40d2876ad45479a25ba743b[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Sun Oct 25 08:22:23 2015 +0000
+
+    rename testing to load_testing as we will have other tests later:
+
+[33mcommit 0ed714b2934d6747920b833ca12447467cb3d0b8[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Sun Oct 25 08:21:25 2015 +0000
+
+    add test script for load test
+
+[33mcommit 344d49ead3f4bae53170d3a396cd63fba538c846[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Sun Oct 25 08:18:35 2015 +0000
+
+    remove fibonacci calculation that was inserted to create a delay in page creating for loadtests, no longer needed
+
+[33mcommit 9a1e5fd26ceac462b514484a13a08f6b8d7a6e77[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Sun Oct 25 07:57:26 2015 +0000
+
+    remove ci volume from load_test and use dynamically loaded volume for Web (this docker-compose is becoming the dev one)
+
+[33mcommit d8f6daa2c2a454e8f21fb89cdf1400fcc13a29cf[m
+Author: Mike Blouin <mike@michaelblouin.ca>
+Date:   Sun Oct 25 06:42:00 2015 +0000
+
+    Don't mount volumes in docker compose.
+    
+    Creates trouble when you try and create the container on a remote host.
+
+[33mcommit 8db81a5a6e8d34951aed3a1aec34c298331d43f3[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Sun Oct 25 06:36:37 2015 +0000
+
+    reorganize docker-compose so that it reads in the same order containers are added in the demo's
+
+[33mcommit a9fd8f21dca2bbe91684450738db940ffbda9bdf[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Sun Oct 25 06:34:37 2015 +0000
+
+    remove CI container as it is not really a CI container and is not really part of the test
+
+[33mcommit 2efa8027292b2e613e60a2f8bc8c0bb18f48950f[m
+Author: Mike Blouin <mike@michaelblouin.ca>
+Date:   Sun Oct 25 00:41:05 2015 +0000
+
+    Change load_test container to use just ab.
+
+[33mcommit 3dc60ec967e8e38e513f0d55bda70a85cb8c6b94[m
+Author: Mike Blouin <mike@michaelblouin.ca>
+Date:   Sat Oct 24 21:56:02 2015 +0000
+
+    Remove CI container and generate tst output in lt
+
+[33mcommit 1fa3da8780c7345c89c954a91632134929d297cf[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Sat Oct 24 09:59:51 2015 +0000
+
+    listen on port 8888
+
+[33mcommit 70f87a27f1b9a5cb8b771d068ee12bf8c210bf90[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Sat Oct 24 09:59:34 2015 +0000
+
+    listen on port 8888
+
+[33mcommit d90d94e40b5e97eb0a886813f6ad317088baf025[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Sat Oct 24 09:58:59 2015 +0000
+
+    merge PR5, thanks mobius5150
+
+[33mcommit 36ce91f04321462c767d3709a2a468a85b759ddc[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Sat Oct 24 07:14:29 2015 +0000
+
+    improved portabilitya and notes for prepare.sh script and a typo in readme
+
+[33mcommit afffb558697ca7e605db0778e752870dda51b850[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Sat Oct 24 00:47:25 2015 +0000
+
+    rename and fix up the commands
+
+[33mcommit 2dfa7b855f759e3ba1855bd3e59c3bd91a3aace0[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Sat Oct 24 00:46:32 2015 +0000
+
+    make the scripts a little more robust
+
+[33mcommit 509e2bdb8f6de962c722517780d921adfe8ea813[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Sat Oct 24 00:07:03 2015 +0000
+
+    rename and make more portable
+
+[33mcommit 5e69fe3b95a797146208cfc9ea3167f1e01ba2b2[m
+Author: Ross Gardler <rogardle@microsoft.com>
+Date:   Fri Oct 23 20:31:20 2015 +0000
+
+    how to run the demo
+
+[33mcommit a88aa58bcec4b9c7bd61de3ce559c3505a492d49[m
+Merge: 9da79e0 c4865b9
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Mon Oct 19 11:28:32 2015 -0700
+
+    Merge pull request #4 from mesosphere/azurecon
+    
+    Remove load test from the marathon group definition
+
+[33mcommit 387732f7b416061e7c776ad1ff8534c747d38cb5[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Sun Oct 4 20:32:31 2015 +0000
+
+    Add a readme describing the demo's and rename demo's to allow new demo's to be inserted
+
+[33mcommit 9da79e08a4ea69bde17dbab4fef7c0fea5ad201e[m
+Merge: a8e60a7 b510eaf
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Sep 28 17:03:00 2015 +0000
+
+    Merge branch 'master' into azurecon
+
+[33mcommit b510eafc7dfd7e6f71ca76138e6ddc0c109eb898[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Sep 28 17:01:22 2015 +0000
+
+    add logo to index page
+
+[33mcommit 298fab8df8d897eed05ec3e93e77c3f836ee70d2[m
+Author: Ross Gardler <rogardle@microsoft.com>
+Date:   Mon Sep 28 09:50:48 2015 -0700
+
+    add a logo
+
+[33mcommit dff2fdbaf5a4f17ffab62a7e5fe8f39ad7601fac[m
+Merge: ee3f0b9 9db8c56
+Author: Ross Gardler <rogardle@microsoft.com>
+Date:   Mon Sep 28 09:45:14 2015 -0700
+
+    Merge branch 'master' of https://github.com/rgardler/AzureDevTestDeploy
+
+[33mcommit a8e60a7d16de826be30511b977b75f32539c09e8[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Thu Sep 24 22:52:27 2015 +0000
+
+    remove load_test from marathon
+
+[33mcommit c4865b9dcb16fd61b61cba339ab941680171fcab[m
+Author: José Armando García Sancio <jsancio@gmail.com>
+Date:   Thu Sep 24 14:57:12 2015 -0700
+
+    Remove load test from the marathon group definition
+
+[33mcommit 9d40ca97a2c483f0c4a593e1547d8618aeb81425[m
+Merge: 3360438 9200293
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Wed Sep 23 21:00:17 2015 +0000
+
+    Merge pull request #3 from mesosphere/azurecon
+    
+    Add script for executing marathon group definition
+
+[33mcommit 920029308cfeae9136f61d421774f61054dc8681[m
+Author: José Armando García Sancio <jsancio@gmail.com>
+Date:   Wed Sep 23 11:57:37 2015 -0700
+
+    Add script for executing marathon group definition
+
+[33mcommit 3360438ae1d1234ce5cab1f7986cfec58d2520c8[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Wed Sep 23 15:51:59 2015 +0000
+
+    add a note on how to deploy using Marathon and note compose is broken in the azurecon branch
+
+[33mcommit 83ce6d6d862a9d6c9709a3f751a75ac7ee75e307[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Wed Sep 23 06:30:07 2015 +0000
+
+    use azuredemo published images
+
+[33mcommit 49bb8c3333ee13ab09d6d4928032750a496f18d5[m
+Merge: a891856 f5564b7
+Author: Ross Gardler <ross@gardler.org>
+Date:   Wed Sep 23 05:26:40 2015 +0000
+
+    Merge commit 'refs/pull/2/head' of https://github.com/rgardler/AzureDevTestDeploy into azurecon
+
+[33mcommit a891856eb73f00bcb9725e83c96cca2f7b78e97c[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Wed Sep 23 05:22:58 2015 +0000
+
+    fix typo in directory name
+
+[33mcommit 03a8c54526ee36f48f7de31725ac564c82004067[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Wed Sep 23 05:22:29 2015 +0000
+
+    add start and stop messages, plus a long delay
+
+[33mcommit f5564b7a02cd095e6bff7011b1867d4aadc200d4[m
+Author: José Armando García Sancio <jsancio@gmail.com>
+Date:   Tue Sep 22 15:07:05 2015 -0700
+
+    Fix load balancer and add task deps
+    
+    Fix load balancer by specifing the backends through the BACKENDS
+    environment variable.
+    
+    Added dependencies between tasks so that they boot up in the correct
+    order.
+
+[33mcommit 831e578d596570bb56055cdc7d492a42adc661b1[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Tue Sep 22 08:35:07 2015 +0000
+
+    rename simulated_tests folder
+
+[33mcommit c87780da6a9520811f3b4b600d16aebac61a750e[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Tue Sep 22 07:44:05 2015 +0000
+
+    simple simulation of log files
+
+[33mcommit ecbc79ebf617a0808f999dfaae8a1016498e4cbd[m
+Author: José Armando García Sancio <jsancio@gmail.com>
+Date:   Mon Sep 21 17:32:29 2015 -0700
+
+    Add support for deploying demo through Marathon
+    
+    1) Added a marathon.json for creating a application group with all of the
+    container.
+    2) Changed all of the URLs in the demo to use the hostname reported by
+    Mesos DNS.
+
+[33mcommit 9db8c5610e71f647e90846c3f2d673e3d451a95d[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Sun Sep 20 23:44:54 2015 +0000
+
+    run load tests using docker-compose
+
+[33mcommit 6e9e10d996801ee60ec3360f25b3604772f0ab98[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Sun Sep 20 23:44:15 2015 +0000
+
+    standardize on naming conventions
+
+[33mcommit 769c4da4b709a95a0f01f7cf37b3bfa11525e093[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Sun Sep 20 23:29:11 2015 +0000
+
+    Make the output a little more legible and add a request count to the Java API
+
+[33mcommit 02772cfabd68339e57635f73725471f9cfe6de6c[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Sun Sep 20 22:40:46 2015 +0000
+
+    Add hostname to REST response
+
+[33mcommit 135c47de022cdd359c06f78cf53710ea08c086bf[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Tue Sep 15 09:50:52 2015 -0700
+
+    Add a note about scripts being useful for learning
+
+[33mcommit 994657f5ea2bfdc1409d61a32f9ef64c9d45b3e4[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Sep 14 02:41:35 2015 +0000
+
+    don't need -t switch when running web container
+
+[33mcommit 4636ff0e7d25c658353c0affe853793f115c2c45[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Sep 14 02:41:03 2015 +0000
+
+    it
+    's port 8080 not 5050
+
+[33mcommit 9e03a8cb26c668dda232316a502cf50c9b48498b[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Sep 14 02:39:25 2015 +0000
+
+    remove restart and add port to web
+
+[33mcommit 5962ce9b1a72fdb85fbe638065a3b5fe2e9cd993[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Sep 14 02:38:52 2015 +0000
+
+    ensure there are no stray containers and ensure we recreate when running the demo (sometimes the proxy doesn't recover well
+
+[33mcommit 280146c4c21a364efeb06e5c936b7e45e4d90942[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Mon Sep 14 02:37:33 2015 +0000
+
+    stop the load testing container, it's a distraction for this demo
+
+[33mcommit f89bbe243bd7cbbbaa8baf11507da5680e57759a[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Sun Sep 13 05:41:05 2015 +0000
+
+    add a docker compose demo
+
+[33mcommit f360f9c1a0fd00dcabb65a98debeb5fd4bb21a71[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Sun Sep 13 05:40:02 2015 +0000
+
+    ensure that we are working with docker on localhost
+
+[33mcommit 7c8ab4872af93be629737970076a9bf9b043a247[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Sat Sep 12 09:51:07 2015 +0000
+
+    begin dempo 2
+
+[33mcommit fb38bc7d8d7813b4e836ce1b1108b1e8d22b50ba[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Sat Sep 12 09:50:34 2015 +0000
+
+    add a demo template
+
+[33mcommit 454b6d9cd1ebe71a961ea7d109a914afdeef830d[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Sat Sep 12 09:50:05 2015 +0000
+
+    remove images we want to see pulled
+
+[33mcommit c498f31e42bb50e9f9b8bc58c6b02813156d5693[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Sat Sep 12 07:16:42 2015 +0000
+
+    add basic intro demo - just working with containers
+
+[33mcommit f5ac6aab2f476c1481fb3ae39e5ffd0df6d312d8[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Sat Sep 12 07:13:39 2015 +0000
+
+    add restart: always to ensure we survive reboots etc.
+
+[33mcommit c82638031fdccc58601dbcf1cd81f1d51f51413d[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Thu Sep 10 07:27:22 2015 +0000
+
+    Add dynamic load balancer (use 'docker-compose scale web=x' to dynamically scale up or down to x web application containers)
+
+[33mcommit 1195229eeda7494ecc2d21152355bc54228177d5[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Thu Sep 10 06:27:48 2015 +0000
+
+    add a compose file for the simple case of one web client and one rest API
+
+[33mcommit 3a9585f7ff9c1904b0ec8712cd5bfd48604a2bd1[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Thu Sep 10 06:16:11 2015 +0000
+
+    ignore more vi files
+
+[33mcommit daeba70006e75ee3934976faafe59ca7946c664a[m
+Merge: 75e8126 15c70fc
+Author: Ross Gardler <ross@gardler.org>
+Date:   Wed Sep 9 21:15:49 2015 +0000
+
+    Merge branch 'master' into swarm
+
+[33mcommit 15c70fcc9eecdce60ab3e4d4b8f1b55e5cc3b7d7[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Wed Sep 9 20:53:48 2015 +0000
+
+    add compose file and some docs
+
+[33mcommit a16224b6fe814eec656a5a3e6a4a6b1aa21a4ea4[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Wed Sep 9 20:28:18 2015 +0000
+
+    ignore vi tmp files
+
+[33mcommit 80180fe4753a345ca67a020515e0c1fdec8ab17d[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Thu Sep 3 18:10:50 2015 +0000
+
+    fix loading of config
+
+[33mcommit 21079ff90874b8d99e16ac786a7bc804fba0d342[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Thu Sep 3 18:10:30 2015 +0000
+
+    mount the local directory in dev mode
+
+[33mcommit 75e8126facb6565c2d37d4962363d039695ef74c[m
+Author: Ross Gardler <ross@gardler.org>
+Date:   Thu Sep 3 18:09:14 2015 +0000
+
+    use Swarm endpoint:
+
+[33mcommit 82ed92331a55076fb7f76b7a48f8419b57e38a03[m
+Author: Ross Gardler <rogardle@microsoft.com>
+Date:   Tue Aug 25 10:27:38 2015 -0700
+
+    do docker config in the imported script
+
+[33mcommit 34a79fbba8691387742281397c9b79902164426a[m
+Author: Ross Gardler <rogardle@microsoft.com>
+Date:   Sun Aug 23 02:11:26 2015 -0700
+
+    record the Swarm ID in the config.sh file
+
+[33mcommit 5f04d2c7ed75879d21721f3249a3ac77d3b1dae6[m
+Author: Ross Gardler <rogardle@microsoft.com>
+Date:   Sun Aug 23 01:27:32 2015 -0700
+
+    don't add '-master' to staging name as it breaks some of the other scripts
+
+[33mcommit 54d5a6309069946e0f7035462714f06b79af74da[m
+Author: Ross Gardler <rogardle@microsoft.com>
+Date:   Sat Aug 22 22:17:48 2015 -0700
+
+    script being able to create a Swarm:
+
+[33mcommit 65b02c972b9e7a8b5da26aa799678b6bc67ca542[m
+Author: Ross Gardler <rogardle@microsoft.com>
+Date:   Sat Aug 22 22:17:11 2015 -0700
+
+    describe allowed values for machine types
+
+[33mcommit ee3f0b91f853c352cf01c172a69f172dd9336948[m
+Author: Ross Gardler <rogardle@microsoft.com>
+Date:   Sat Aug 22 13:47:38 2015 -0700
+
+    correctly identify staging machines in echo
+
+[33mcommit 28fe904b58748956dd3686cad0cf91d20fe62d57[m
+Author: Ross Gardler <rogardle@microsoft.com>
+Date:   Tue Aug 11 14:26:07 2015 -0700
+
+    add HA Proxy load balancing
+
+[33mcommit 4e87f75ab0ed06feeff7dd6774d221621c489a9f[m
+Merge: 55dbd69 29d9b15
+Author: Ross Gardler <rogardle@microsoft.com>
+Date:   Mon Aug 10 15:57:56 2015 -0700
+
+    Merge branch 'master' of https://github.com/rgardler/AzureDevTestDeploy
+
+[33mcommit 55dbd6966fa08cd203982d34ee2d60148cd92804[m
+Author: Ross Gardler <rogardle@microsoft.com>
+Date:   Mon Aug 10 15:57:37 2015 -0700
+
+    run an extra round of tests
+
+[33mcommit 29d9b1523883461cf297ea1064eb94b77705bfbf[m
+Author: Ross Gardler <rogardle@microsoft.com>
+Date:   Tue Jul 28 16:38:32 2015 -0700
+
+    typo
+
+[33mcommit 5643c331b7abc2c19ecf541e35331a806eeb659c[m
+Author: Ross Gardler <rogardle@microsoft.com>
+Date:   Mon Jul 27 16:47:29 2015 -0700
+
+    fix the ports for REST api
+
+[33mcommit 4a72e90e1700ac0d0d563f1637c8e660002e99c4[m
+Author: Ross Gardler <rogardle@microsoft.com>
+Date:   Mon Jul 27 15:07:05 2015 -0700
+
+    add a note about opening endpoints
+
+[33mcommit e3093cb062ebecebd52f298e2bc881171172e05a[m
+Author: Ross Gardler <rogardle@microsoft.com>
+Date:   Wed Jul 22 00:09:27 2015 -0700
+
+    remove duplicate response from REST API
+
+[33mcommit d4db776e64c0d50f857fd1993c904f725f39068e[m
+Author: Ross Gardler <rogardle@microsoft.com>
+Date:   Wed Jul 22 00:09:11 2015 -0700
+
+    add a timestamp to the REST response so we can see changes
+
+[33mcommit cffa9f84f161043e18f87309d0bcb46be6eee32d[m
+Author: Ross Gardler <rogardle@microsoft.com>
+Date:   Tue Jul 21 23:48:48 2015 -0700
+
+    clarify ports needed
+
+[33mcommit e40c1ab143c44020e8d4b1d58ed81fb642ab0d19[m
+Author: rgardler <ross@gardler.org>
+Date:   Fri Jul 17 17:34:06 2015 -0700
+
+    update version number of docker-machine
+
+[33mcommit d6a1de2f7c0b69cb3658555db309da09da20f60b[m
+Author: Ross Gardler <rogardle@microsoft.com>
+Date:   Fri Jul 17 15:44:13 2015 -0700
+
+    a few minor clarifications about what this project is
+
+[33mcommit 0c9ad60a474b22e3e69b01b59efe7bc8b3298cdc[m
+Author: Ross Gardler <rogardle@microsoft.com>
+Date:   Fri Jul 17 15:38:13 2015 -0700
+
+    add load testing to the dev scripts:
+
+[33mcommit 73a7f32a5359232ab39a90cf7807b20a30404202[m
+Author: Ross Gardler <rogardle@microsoft.com>
+Date:   Fri Jul 17 15:23:22 2015 -0700
+
+    add a script to create the necessary machines and simplify the environment setup as a result
+
+[33mcommit f4d9a4b5f5e3abada88d392281105a9e2b556a08[m
+Author: rgardler <ross@gardler.org>
+Date:   Fri Jul 17 03:06:25 2015 -0700
+
+    Add basic load testing
+
+[33mcommit faf6d1555c1ffb1278403d1393dbba5899488e31[m
+Author: rgardler <ross@gardler.org>
+Date:   Thu Jul 16 23:38:45 2015 -0700
+
+    note move away from ASP and correct name for file for trial edit
+
+[33mcommit 91313a5314fa59404e218313491a69bdfc15269e[m
+Author: rgardler <ross@gardler.org>
+Date:   Thu Jul 16 23:35:53 2015 -0700
+
+    remove ASP.Net application and replace with a PHP application
+
+[33mcommit f8b448a9173b27f9af503ea9acf5c720b5900a7f[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Mon Jun 22 22:23:02 2015 -0700
+
+    update Microsoft specific support items
+
+[33mcommit c69084c5ef69979f21391056bfca7a19caf350ea[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Sun Jun 21 22:38:10 2015 -0700
+
+    some minor tweaks to slide wording
+
+[33mcommit 4a8379d9a52d280e8f412a5a205f31eee47153bd[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Sun Jun 21 22:34:18 2015 -0700
+
+    unify on version number variable names
+
+[33mcommit 66d24620b874c605ea9c2f0f52a5ac0b6b8696ec[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Sun Jun 21 22:33:32 2015 -0700
+
+    install the JDK, uncomment build code, copy the build on the container
+
+[33mcommit f688021dd6795d20c1f0c8bc30697a941afdb327[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Sun Jun 21 22:15:53 2015 -0700
+
+    add some screenshots and a few useful references
+
+[33mcommit a15482d47906418e3c2aca3af3b537802a6709b6[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Sun Jun 21 22:14:38 2015 -0700
+
+    improve the console output
+
+[33mcommit 21ea43307d42a8de62f4f0c44780af12dd2eb3f2[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Sun Jun 21 22:13:58 2015 -0700
+
+    add note about staging name needing to be world unique
+
+[33mcommit 7673d97756e5941c275b18484591db90d7a8b5a1[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Sun Jun 21 20:33:01 2015 -0700
+
+    ignore temporary office files
+
+[33mcommit b094e67c07e35cc3e9eea27b1534e07f33e781b3[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Sun Jun 21 20:31:57 2015 -0700
+
+    add a deck covering the basics
+
+[33mcommit 09893642d952a4b998585e5fb48f86edd006cdd7[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Sun Jun 21 20:31:29 2015 -0700
+
+    use a shorter pair of machine names
+
+[33mcommit b9436bf4ced847ca50ef4e16469cbdbe4072a636[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Sun Jun 21 20:30:59 2015 -0700
+
+    update readme to refer to the latest updates and refer to new docs
+
+[33mcommit eed9b074fbb1323f3c9a312ef9a93c0e90a49205[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Sun Jun 21 11:02:49 2015 -0700
+
+    fix ports
+
+[33mcommit 266677685d7b6c9ec11f8ead157c62eea9d29097[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Sun Jun 21 11:01:26 2015 -0700
+
+    remove duplication between scripts
+
+[33mcommit dc81e22a9c4613ff4a8f25ff80b28a77a246d473[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Mon Jun 15 01:43:57 2015 -0700
+
+    add note about DIND sourc
+
+[33mcommit 1e6a78a456132a02a9141d28785ded34f01e8125[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Sun Jun 14 23:28:49 2015 -0700
+
+    remove workaround for Windows file sharing
+
+[33mcommit a508bb1fb4b6dfbaa3644091f39d9e417f1d1d95[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Sun Jun 14 23:25:36 2015 -0700
+
+    fix heading levels
+
+[33mcommit 5c780fe554c60f8ee1f08aefa4004d3e4c435f1c[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Sun Jun 14 23:00:46 2015 -0700
+
+    remove all traces of the Windows workaround for volumes and align the scripts with the getting started guides
+
+[33mcommit b31055af03c6e3906abb95530e2e1bb616b647db[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Sun Jun 14 02:59:35 2015 -0700
+
+    a few minor tweaks and a reference to the new docs folder
+
+[33mcommit e2dc866f26fc6a6f5992a187a8e30b36c5496ed8[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Sun Jun 14 02:58:47 2015 -0700
+
+    link containers and a few documentation tweaks
+
+[33mcommit cec1974e4b82c9c13c4d5467d681fc1fd874c287[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Sun Jun 14 02:57:43 2015 -0700
+
+    rm compile directives and use hosts file to resolve rest API
+
+[33mcommit 11ea8494a7dccc87770e8a91b45769f4d2977510[m
+Merge: ca36d30 d5f9322
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Fri Jun 12 01:27:47 2015 -0700
+
+    Merge branch 'master' of https://github.com/rgardler/AzureDevTestDeploy
+
+[33mcommit ca36d302ef58fba6fe8e120dd853c6033da1720a[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Fri Jun 12 01:27:20 2015 -0700
+
+    add a getting started guide
+
+[33mcommit f6528ece6a85ce8a09a14ff6b0dc8d471ca3a223[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Fri Jun 12 01:26:56 2015 -0700
+
+    add a standard Dockerfile, we probably don't want to split it into two dockerfiles (dev and stage), should provide parameters instead
+
+[33mcommit 97db442a0948afa0f5a6f5999d6c95cd640fced5[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Fri Jun 12 01:25:42 2015 -0700
+
+    remove the info on a watcher, volume bugs on hyper-v are preventing this working reliably
+
+[33mcommit 65b7c54a7c950068b3882ae9727dba89fe703c56[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Fri Jun 12 01:23:48 2015 -0700
+
+    use 127.0.0.1 for the REST API rather than a domain name. This still isn't ideal. Should explore linking here
+
+[33mcommit d5f932216dfaeb6f1f1d5e403c4c4d51fefadb35[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Tue Jun 9 07:59:42 2015 -0700
+
+    Update config.tmpl
+    
+    Clarify what these values are
+
+[33mcommit 38031dface3b55034555c76705aa97d2db65f16f[m
+Merge: dfd931a a8d145a
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Tue Jun 9 07:46:55 2015 -0700
+
+    Merge pull request #1 from cpuguy83/patch-1
+    
+    s/dcker/docker
+
+[33mcommit a8d145a8db2f5f174181097ecde548826127f776[m
+Author: Brian Goff <cpuguy83@gmail.com>
+Date:   Tue Jun 9 08:09:44 2015 -0400
+
+    s/dcker/docker
+
+[33mcommit dfd931ab973d8c913b7633a32e2093f43713d8f1[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Mon Jun 1 18:53:09 2015 -0700
+
+    seem to have inadvertently removed the '.' from the build command
+
+[33mcommit bc45b925886f2a04ad80a9bc1ab21472358b49f4[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Mon Jun 1 18:52:24 2015 -0700
+
+    add some output to show when the directory is being mounted to allow earlier possible errors to be ignored
+
+[33mcommit 968d85f788fe8c22dbd6debaf4062671254308a7[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Mon Jun 1 12:16:15 2015 -0700
+
+    can't use captial letters in image names
+
+[33mcommit 0038433b84f3efd0af14596dd365fc37e6828d06[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Mon Jun 1 12:04:08 2015 -0700
+
+    when starting dev container start the application containers within it
+
+[33mcommit 0ad44c7f3ce6316f8f605f117a410bff47a065bf[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Mon Jun 1 11:43:48 2015 -0700
+
+    VS Code settings
+
+[33mcommit 0e801461bbe8aff253dcc4738688c45dcbd094c3[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Sun May 31 23:30:01 2015 -0700
+
+    note that the dev container allows Docker in Docker:
+
+[33mcommit b55d923390a292e19cf2adac94e27ba174b5c941[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Sun May 31 23:29:39 2015 -0700
+
+    copy project files in and start in that directory
+
+[33mcommit d2df713d8ff7e7e98bc8c2737a7207ddbb6c95a1[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Sun May 31 23:29:08 2015 -0700
+
+    log to file
+
+[33mcommit fb005f1990635c43b96d93c7f68e55b0304fe3c9[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Sun May 31 23:06:23 2015 -0700
+
+    dev container now runs docker in docker
+
+[33mcommit 1b73185487734e899ab228b030f641b6f21dfc20[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Sun May 31 22:50:52 2015 -0700
+
+    remove duplicate restore commands
+
+[33mcommit eb3026d6271d242854212bd4e049265a222540d0[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Sun May 31 12:42:04 2015 -0700
+
+    quote mount command to prevent escaping of '/'
+
+[33mcommit 8582b2346a50b5271c4310e1fba71ec13bf945e0[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Sun May 31 12:03:58 2015 -0700
+
+    remove leading '/'
+
+[33mcommit b45cced936581da7153c560c765ea3910a0023b2[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Sun May 31 12:01:09 2015 -0700
+
+    add a workaround for file sharing on windows
+
+[33mcommit 7779467e8aa68814797f3830539374cc64ce17b7[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Sun May 31 00:44:11 2015 -0700
+
+    share the source folder for the development container
+
+[33mcommit c47d8e594427bb62f02fcffff646bc21d09dc441[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Sun May 31 00:43:19 2015 -0700
+
+    don't need git and emacs as we won't be editing directly in the container and we'll be sharing folders for the source files
+
+[33mcommit a411a9fe97be546e1651b140ce328d5ab673e61e[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Sat May 30 16:09:49 2015 -0700
+
+    move dev container instructions to setup document
+
+[33mcommit e9e88e02a27af4abf541a5a23d8ab49ba4926496[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Sat May 30 22:47:47 2015 +0000
+
+    Add emacs
+
+[33mcommit 062e6033dfd6cfd55b2ad5120f4d248067ff700b[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Sat May 30 22:42:06 2015 +0000
+
+    make scripts executable
+
+[33mcommit 370a0a795dea17ee610eaf487d2da043201a5165[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Sat May 30 15:36:06 2015 -0700
+
+    more complete envirnment setup docs
+
+[33mcommit a77e2cb54d9b8ea1e8828fca006c62a199ffbf7b[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Sat May 30 15:35:37 2015 -0700
+
+    use pwd for docker run command as we are ecouraging use via docker ssh now
+
+[33mcommit c6d85cef6720746a4aab0325296cbabce057d5de[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Sat May 30 15:34:22 2015 -0700
+
+    convenience script to stage both applications
+
+[33mcommit 77e5b8ef1b89ce7432b6ae9c3c1596300c7f0eeb[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Sat May 30 15:33:53 2015 -0700
+
+    make version numbers configurable for both java and asp projects
+
+[33mcommit 29d8d0052b8e1fa2eef70b785c7542863aff8bfa[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Sat May 30 15:32:02 2015 -0700
+
+    use the staging build command
+
+[33mcommit 555ab3555d436130d3ba93e84df42f1de1c65d1d[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Sat May 30 15:31:22 2015 -0700
+
+    add a compiler define to allow staging and development machines to be identified in the UI
+
+[33mcommit 30bd8caddcd1638536a2116463cd0e6443480a27[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Sat May 30 15:30:20 2015 -0700
+
+    add curl for convenient sanity checks on the local container, e.g. docker exec dev curl http://localhost
+
+[33mcommit b9bdbcac18493085b491d1c625747fc35065ecc8[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Fri May 29 14:19:53 2015 -0700
+
+    add notes on environment config and provide dev, stage and prod commands for asp.net
+
+[33mcommit 5253b21bdceeb882885f1905f3d65564fb77a096[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Thu May 28 23:14:45 2015 -0700
+
+    allow machine names to be configurable
+
+[33mcommit 29a23fae4994c988cb7b2ea933c48d9d312fc9b3[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Thu May 28 23:03:44 2015 -0700
+
+    rename variables.sh to config.sh
+
+[33mcommit 11cf26e5d64a85dbca8f94eb38f7ca84bca1c20e[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Thu May 28 09:08:43 2015 -0700
+
+    Create separate dev and prod environments
+
+[33mcommit 3aa27956fe9be865792eedf567718adfcfdee3c9[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Wed May 27 17:11:56 2015 -0700
+
+    create a Nancy based hello world app that pulls from the Java API
+
+[33mcommit 6144936075cf219ff6a5cd424ec739989b3c01fe[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Wed May 27 09:12:30 2015 -0700
+
+    initial ASP and Java apps
+
+[33mcommit 55b82f2b08b6caf711cc917faec2dc261556c478[m
+Author: Ross Gardler <ross.gardler@microsoft.com>
+Date:   Mon May 18 14:09:44 2015 -0700
+
+    ignore certs
+    
+    Signed-off-by: Ross Gardler <ross.gardler@microsoft.com>
