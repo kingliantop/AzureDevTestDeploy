@@ -1,20 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <project>
   <actions/>
-  <description>Run integration tests whenever any Git branch is changed. </description>
+  <description>Run integration tests whenever any Git branch is changed.  Steven Demo</description>
   <keepDependencies>false</keepDependencies>
-  <properties>
-    <hudson.plugins.promoted__builds.JobPropertyImpl plugin="promoted-builds@2.21">
-      <activeProcessNames>
-        <string>Publish Containers</string>
-      </activeProcessNames>
-    </hudson.plugins.promoted__builds.JobPropertyImpl>
-  </properties>
+  <properties/>
   <scm class="hudson.plugins.git.GitSCM" plugin="git@2.4.0">
     <configVersion>2</configVersion>
     <userRemoteConfigs>
       <hudson.plugins.git.UserRemoteConfig>
-        <url>https://github.com/squillace/AzureDevTestDeploy</url>
+        <url>https://github.com/kingliantop/AzureDevTestDeploy</url>
       </hudson.plugins.git.UserRemoteConfig>
     </userRemoteConfigs>
     <branches>
