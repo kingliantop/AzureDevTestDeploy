@@ -1,0 +1,8 @@
+<mirrors>
+<mirror>  
+      <id>CN</id>  
+      <name>OSChina Central</name>                                                                                                                         
+      <url>http://maven.oschina.net/content/groups/public/</url>  
+      <mirrorOf>central</mirrorOf>  
+</mirror>
+</mirrors> 
