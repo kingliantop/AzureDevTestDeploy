@@ -5,7 +5,7 @@ RUN apt-get -qqy install openjdk-7-jdk --fix-missing
 RUN apt-get -qqy install maven
 
 COPY . /app
-COPY ./setting.xml /root/.m2/
+COPY ./settings.xml /root/.m2/
 WORKDIR /app
 RUN mvn clean package
 
